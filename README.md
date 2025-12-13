@@ -12,7 +12,7 @@ front-end and full-stack web development.
 
 ## 🚀 About Me
 
-I’m a **Frontend-focused Software Engineer** with strong experience in building **scalable web applications**, **shared component libraries**, and **micro-frontend architectures**.
+For now I’m a **Frontend-focused Software Engineer** with strong experience in building **scalable web applications**, **shared component libraries**, and **micro-frontend architectures**.
 
 I care deeply about:
 - ⚡ Performance optimization
@@ -27,7 +27,7 @@ I enjoy collaborating across teams to deliver **high-quality, maintainable produ
 ## 🧠 Core Expertise
 
 - **Frontend Architecture**
-  - React, Next.js, Vite
+  - React, Next.js, VueJS, Flutter
   - Micro-frontend (Module Federation)
   - Shared UI / Design System
 
@@ -35,19 +35,10 @@ I enjoy collaborating across teams to deliver **high-quality, maintainable produ
   - Clean Architecture
   - TDD (Jest, React Testing Library)
   - Performance optimization & code splitting
-
-- **State & Data**
-  - Zustand, React Query
-  - Form handling (React Hook Form + Zod)
-  - REST API integration
-
-- **Styling & UI**
-  - Tailwind CSS
-  - CSS / SCSS Modules
-  - Accessible & responsive design
+ 
 
 - **Backend & Others**
-  - Node.js, Go
+  - ExpressJS, Go, Laravel, CodeIgniter
   - API design
   - Monorepo & CI/CD basics
 
@@ -72,10 +63,13 @@ Production-ready micro-frontend setup using Vite + Module Federation.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Javascript-20232A?style=flat&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Next.js-20232A?style=flat&logo=nextdotjs&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Vite-20232A?style=flat&logo=vite&logoColor=646CFF"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwindcss&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwindcss&logoColor=38BDF8"/>  <img src="https://img.shields.io/badge/Dart-20232A?style=flat&logo=dart&logoColor=0175C2"/>
+  <img src="https://img.shields.io/badge/PHP-20232A?style=flat&logo=go&logoColor=00ADD8"/>
   <img src="https://img.shields.io/badge/Go-20232A?style=flat&logo=go&logoColor=00ADD8"/>
 </p>
 
