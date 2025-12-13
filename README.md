@@ -6,13 +6,7 @@ Frontend Engineer · Full-Stack Developer · UI Systems Builder
 <p align="center">
 Passionate and self-driven software engineer with 6+ years of professional experience in
 front-end and full-stack web development.
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=difadev28&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=difadev28&theme=transparent" height="150"/>
-</p>
-
+</p> 
 ---
 
 ## 🚀 About Me
