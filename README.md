@@ -8,6 +8,11 @@ Passionate and self-driven software engineer with 6+ years of professional exper
 front-end and full-stack web development.
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=difadev28&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=difadev28&theme=transparent" height="150"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -62,15 +67,27 @@ Production-ready micro-frontend setup using Vite + Module Federation.
 ## 🛠 Tech Stack
 
 <p>
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Javascript-20232A?style=flat&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Vue.js-20232A?style=flat&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Next.js-20232A?style=flat&logo=nextdotjs&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Vite-20232A?style=flat&logo=vite&logoColor=646CFF"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwindcss&logoColor=38BDF8"/>  <img src="https://img.shields.io/badge/Dart-20232A?style=flat&logo=dart&logoColor=0175C2"/>
-  <img src="https://img.shields.io/badge/PHP-20232A?style=flat&logo=go&logoColor=00ADD8"/>
+
+  <!-- Styling -->
+  <img src="https://img.shields.io/badge/TailwindCSS-20232A?style=flat&logo=tailwindcss&logoColor=38BDF8"/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/PHP-20232A?style=flat&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/Laravel-20232A?style=flat&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-20232A?style=flat&logo=codeigniter&logoColor=EF4223"/>
   <img src="https://img.shields.io/badge/Go-20232A?style=flat&logo=go&logoColor=00ADD8"/>
+  <img src="https://img.shields.io/badge/Dart-20232A?style=flat&logo=dart&logoColor=0175C2"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=flat&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/SQL_Server-20232A?style=flat&logo=microsoftsqlserver&logoColor=CC2927"/>
+</p>
 </p>
 
 ---
