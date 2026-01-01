@@ -51,7 +51,7 @@ A reusable UI component library focused on consistency, performance, and scalabi
 🔹 **Go HTTP Router**  
 A lightweight HTTP routing library written in Go to explore backend architecture and performance.
 
-🔹 **Micro-Frontend Experiments**  
+🔹 **Boiler Plate Mono Micro-Frontend**  
 Production-ready micro-frontend setup using Vite + Module Federation.
 
 > 📌 See pinned repositories below for selected work.
