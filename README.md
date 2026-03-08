@@ -26,7 +26,7 @@ I enjoy collaborating across teams to deliver **high-quality, maintainable produ
 ## 🧠 Core Expertise
 
 - **Frontend Architecture**
-  - React, Next.js, VueJS, Flutter
+  - React, Next.js, VueJS, AngularJS
   - Micro-frontend (Module Federation)
   - Shared UI / Design System
 
