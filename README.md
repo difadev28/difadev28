@@ -37,7 +37,7 @@ I enjoy collaborating across teams to deliver **high-quality, maintainable produ
  
 
 - **Backend & Others**
-  - ExpressJS, Go, Laravel, CodeIgniter
+  - ExpressJS, Laravel, CodeIgniter
   - API design
   - Monorepo & CI/CD basics
 
